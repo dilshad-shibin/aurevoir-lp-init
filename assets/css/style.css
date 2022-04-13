@@ -1523,6 +1523,7 @@ img {
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
+    transition: all .3s ease;
 }
 
 .about-video a img {
@@ -1548,4 +1549,18 @@ img {
     bottom: 9px;
     left: 16px;
     right: 17px;
+}
+
+.client-head{
+    margin-bottom: 50px;
+}
+
+.client-head h2{
+    font-family: 'Lexend', sans-serif;
+    color: #343434;
+    font-weight: 600;
+    font-size: 38px;
+    max-width: 700px;
+    margin: 0 auto;
+    margin-bottom: 30px;
 }

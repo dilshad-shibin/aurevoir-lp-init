@@ -623,6 +623,20 @@
     .client-videos{
         padding-bottom: 10px;
     }
+    .client-head h2 {
+        font-family: 'Lexend', sans-serif;
+        color: #343434;
+        font-weight: 600;
+        font-size: 30px;
+        max-width: 700px;
+        margin: 0 auto;
+        margin-bottom: 30px;
+        line-height: 1.2;
+    }
+    .welcome-form{
+        max-width: inherit;
+        float: inherit;
+    }
 }
 
 @media(max-width: 360px){

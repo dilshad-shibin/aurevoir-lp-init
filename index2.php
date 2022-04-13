@@ -117,6 +117,13 @@ $medium = $_GET['utm_medium'];
         <section class="client-videos section">
             <div class="container">
                 <div class="row">
+                    <div class="col-12 text-center">
+                        <div class="client-head">
+                            <h2>Let's listen to the experiences of our clients</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
                     <div class="col-lg-6">
                         <div class="video-block text-center">
                             <div class="img">
