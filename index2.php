@@ -120,6 +120,7 @@ $medium = $_GET['utm_medium'];
                     <div class="col-lg-6">
                         <div class="video-block text-center">
                             <div class="img">
+                                <div class="img-hover"></div>
                                 <img src="assets/img/bg/kadhal-sandya.jpg" alt="" class="testii-img">
                                 <a href="assets/videos/kadhal.mp4" data-fancybox class="center-btn"><img src="assets/img/play-btn.png" alt=""></a>
                             </div>
@@ -132,6 +133,7 @@ $medium = $_GET['utm_medium'];
                     <div class="col-lg-6">
                         <div class="video-block text-center">
                             <div class="img">
+                                <div class="img-hover"></div>
                                 <img src="assets/img/bg/arushi.jpg" alt="" class="testii-img"> 
                                 <a href="assets/videos/arushi.mp4" data-fancybox class="center-btn"><img src="assets/img/play-btn.png" alt=""></a>
                             </div>
