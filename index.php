@@ -79,7 +79,7 @@ $medium = $_GET['utm_medium'];
                                     <div class="form-group form-group-btn">
                                         <input type="hidden" name="esource" value="<?php echo $source;?>">
                                         <input type="hidden" name="emedium" value="<?php echo $medium;?>">
-                                        <input type="submit" value="submit" class="form-control" name="submit">
+                                        <input type="submit" value="Book Free Consultation" class="form-control" name="submit">
                                     </div>
                                 </form>
                             </div>
@@ -104,7 +104,7 @@ $medium = $_GET['utm_medium'];
                                 <p>is a specialty Ayurvedic rejuvenation center headed by a qualified and 
                                     highly-respected Vaidyan or physician. It is a live-in clinic where the assigned therapist monitors you daily. The medicines are prepared on site, all food is cooked to strict Ayurvedic principles and served at an exclusive restaurant that serves only vegetarian cuisine.</p>
                                 <div class="btn-style">
-                                    <a href="#" data-toggle="modal" data-target="#exampleModal0">Book Now</a>
+                                    <a href="#" data-toggle="modal" data-target="#exampleModal0">Book Free Consultation</a>
                                 </div>
                             </div>
                         </div>
@@ -205,7 +205,7 @@ $medium = $_GET['utm_medium'];
                         <div class="treat-box treat-box2">
                             <h3>Let's heal you amidst tranquility </h3>
                             <div class="btn-style">
-                                <a href="#" data-toggle="modal" data-target="#exampleModal0">Book Now</a>
+                                <a href="#" data-toggle="modal" data-target="#exampleModal0">Talk To Doctor</a>
                             </div>
                         </div>
                     </div>
@@ -275,7 +275,7 @@ $medium = $_GET['utm_medium'];
                             <p>Neatly tucked into a hillock, bang amidst a wildlife sanctuary and nature reserve along the Western Ghats or the Sahyadri Mountain (mountain of patience) ranges at the Palakkad Pass in Kerala and bordering the neighboring state of Tamil Nadu, one of the best Ayurvedic resorts in Kerala, Au Revoir Ayurvedic treatment center is a well-hidden getaway from the touristy trails of God's Own Country, yet easily accessible. With misty and often cloud-shrouded evergreen mountains in the foreground standing sentinel over a majestic lake with high-rising reserve forests in the background, the setting here is picture-perfect!</p>
                             <p class="last-child">This Wellness Retreat which is one of the topmost luxury Ayurvedic resorts in Kerala offers the best Ayurvedic packages that will help in relaxation and rejuvenation of your body, mind, and soul. Karkidaka Chikithsa is one of the main attractions.</p>
                             <div class="about-btn">
-                                <a href="#" data-toggle="modal" data-target="#exampleModal0">Book Now</a>
+                                <a href="#" data-toggle="modal" data-target="#exampleModal0">Request A Call Back</a>
                             </div>
                          </div>
                      </div>
@@ -431,7 +431,7 @@ $medium = $_GET['utm_medium'];
                   <div class="row">
                       <div class="col-12 text-center">
                           <div class="testi-btn">
-                              <a href="#" data-toggle="modal" data-target="#exampleModal0">Book Now</a>
+                              <a href="#" data-toggle="modal" data-target="#exampleModal0">Talk To Doctor</a>
                           </div>
                       </div>
                   </div>
@@ -476,7 +476,7 @@ $medium = $_GET['utm_medium'];
                                 <div class="form-group form-group-btn">
                                     <input type="hidden" name="esource" value="<?php echo $source;?>">
                                     <input type="hidden" name="emedium" value="<?php echo $medium;?>">
-                                    <input type="submit" value="submit" class="form-control" name="submit">
+                                    <input type="submit" value="Request A Call Back" class="form-control" name="submit">
                                 </div>
                             </form>
                           </div>
@@ -576,7 +576,7 @@ $medium = $_GET['utm_medium'];
                                                                                 <input type="hidden" name="emedium"
                                                                                     value="<?php echo $medium;?>">
                                                                                 <input type="submit" class="form-control"
-                                                                                    value="Submit" name="submit">
+                                                                                    value="Request A Call Back" name="submit">
                                                                             </div>
                                                                         </div>
                                                                     </div>
