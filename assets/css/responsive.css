@@ -608,6 +608,21 @@
     .about-head .about-btn a{
         padding: 18px 20px;
     }
+    .treatment-center{
+        padding-bottom: 50px;
+    }
+    .video-block .center-btn{
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        top: 35%;
+    }
+    .video-block{
+        margin-bottom: 40px;
+    }
+    .client-videos{
+        padding-bottom: 10px;
+    }
 }
 
 @media(max-width: 360px){
