@@ -637,6 +637,10 @@
         max-width: inherit;
         float: inherit;
     }
+    .video-block .img-hover{
+        right: 10px;
+        left: 10px;
+    }
 }
 
 @media(max-width: 360px){
