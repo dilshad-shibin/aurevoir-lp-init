@@ -28,6 +28,19 @@ $medium = $_GET['utm_medium'];
     <!--Cookie Alert-->
     <link rel="stylesheet" href="assets/css/cookiealert.css">
 
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+    s1.async=true;
+    s1.src='https://embed.tawk.to/6257d7167b967b11798ab257/1g0ji0coh';
+    s1.charset='UTF-8';
+    s1.setAttribute('crossorigin','*');
+    s0.parentNode.insertBefore(s1,s0);
+    })();
+    </script>
+    <!--End of Tawk.to Script-->
 
 </head>
 
@@ -401,7 +414,7 @@ $medium = $_GET['utm_medium'];
                   <div class="row">
                       <div class="col-12">
                           <div class="testi-slider owl-carousel">
-                              
+
                             <div class="testi-item">
                                     <div class="testi-box d-flex text-center align-items-center">
                                         <div class="img-testi">
