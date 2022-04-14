@@ -924,7 +924,7 @@ img {
 ****************************** */
 .treatment-center{
     background: #f6f9ff;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
 }
 
 .treatment-box{
@@ -1023,7 +1023,7 @@ img {
     background-color: #fff;
     padding: 30px 20px;
     margin-bottom: 25px;
-    min-height: 371px;
+    min-height: 395px;
 }
 
 .treat-box .text h3{
@@ -1317,6 +1317,10 @@ img {
 .img-testi{
     flex: 0 0 25%;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .img-testi img{
@@ -1327,6 +1331,12 @@ img {
 .text-testi{
     flex: 0 0 75%;
     padding-left: 20px;
+}
+
+.text-testi h3{
+    text-align: left;
+    margin-bottom: 5px;
+    margin-top: 10px;
 }
 
 .text-testi p{
@@ -1556,11 +1566,11 @@ img {
 }
 
 .client-head h2{
-    font-family: 'Lexend', sans-serif;
-    color: #343434;
-    font-weight: 600;
-    font-size: 38px;
     max-width: 700px;
     margin: 0 auto;
+    color: #000;
+    font-size: 40px;
     margin-bottom: 30px;
+    font-weight: 400;
+    font-family: 'Playfair Display', serif;
 }

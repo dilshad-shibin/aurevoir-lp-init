@@ -78,7 +78,7 @@
         nav: false,
         dots: true,
         smartSpeed: 2000,
-        autoplay: true,
+        autoplay: false,
         autoplayTimeout: 4000,
         responsive: {
             0: {
@@ -91,7 +91,7 @@
                 items: 2
             },
             992: {
-                items: 2
+                items: 1
             }
         }
     });

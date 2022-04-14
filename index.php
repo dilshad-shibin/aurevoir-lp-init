@@ -113,6 +113,47 @@ $medium = $_GET['utm_medium'];
             </div>
         </section>
 
+         <!-- ***** client videos ***** -->
+         <section class="client-videos section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <div class="client-head">
+                            <h2>Let's Hear Some Au Revoir Experiences</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="video-block text-center">
+                            <div class="img">
+                                <div class="img-hover"></div>
+                                <img src="assets/img/bg/kadhal-sandya.jpg" alt="" class="testii-img">
+                                <a href="assets/videos/kadhal.mp4" data-fancybox class="center-btn"><img src="assets/img/play-btn.png" alt=""></a>
+                            </div>
+                            <div class="details">
+                                <h3>Kaadhal Sandhya</h3>
+                                <p>Actress</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="video-block text-center">
+                            <div class="img">
+                                <div class="img-hover"></div>
+                                <img src="assets/img/bg/arushi.jpg" alt="" class="testii-img"> 
+                                <a href="assets/videos/arushi.mp4" data-fancybox class="center-btn"><img src="assets/img/play-btn.png" alt=""></a>
+                            </div>
+                            <div class="details">
+                                <h3>Arushi Baradwaj</h3>
+                                <p>Mumbai</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- ***** Treatments Start ***** -->
         <section class="treatment-service section">
             <div class="container">
@@ -363,65 +404,78 @@ $medium = $_GET['utm_medium'];
                               <div class="testi-item">
                                   <div class="testi-box d-flex text-center align-items-center">
                                       <div class="img-testi">
-                                          <img src="assets/img/female-testi.png" alt="">
-                                          <h4>Tara</h4>
-                                          <span>Mumbai</span>
+                                          <img src="assets/img/testis/loredhana.jpg" alt="">
+                                          <h4>Loredana H</h4>
+                                          <!-- <span>Mumbai</span> -->
                                       </div>
                                       <div class="text-testi">
                                           <img src="assets/img/quotes.png" alt="">
-                                          <p>Au Revoir has highly dedicated doctors and therapists. Panchakarma therapy is extremely beneficial. Yoga sessions are highly energizing and fruitful.</p>
+                                          <h3>The perfect cocktail of Magic!</h3>
+                                          <p>Saddly my holiday has come to an end, but I really want to say a few words about the magic experience I lived in this place and have come from Italy for an official visit.
+                                          Au Revoir is a new wellness resort located on the Malambuzha Dam resorvoir with a breath-taking sightseeing of nature and water.
+                                          The area is safe and quiet, surrounded by the nature but at a short distance from the city, just about 20 min drive. 
+                                          </p>
                                       </div>
                                   </div>
                               </div>
                               <div class="testi-item">
                                     <div class="testi-box d-flex text-center align-items-center">
                                         <div class="img-testi">
-                                            <img src="assets/img/male-testi.png" alt="">
-                                            <h4>Karthik</h4>
-                                            <span>Thrissur</span>
+                                            <img src="assets/img/testis/arushi.jpg" alt="">
+                                            <h4>Arushi</h4>
+                                            <!-- <span>Thrissur</span> -->
                                         </div>
                                         <div class="text-testi">
                                             <img src="assets/img/quotes.png" alt="">
-                                            <p>Beautiful location, ideal resort to rewind and enjoy the benefits of Ayurveda right in nature's lap. I was quite benefited by Karkidaka Chikithsa.</p>
+                                            <h3>Lovely Experience!</h3>
+                                            <p>I came to this beautiful resort to spend time with my mother and also spend time with nature. The resort definitely exceeded expectations with such lovely and hospitable staff members, beautiful scenery, and amazing treatments. I felt completely relaxed and rejuvenated after my Ayurvedic health treatments.
+                                            I also had an amazing time in the swimming pool which has a scenic view overlooking the mountains of Kerala.
+                                            </p>
                                         </div>
                                     </div>
                                </div>
                                <div class="testi-item">
                                         <div class="testi-box d-flex text-center align-items-center">
                                             <div class="img-testi">
-                                                <img src="assets/img/male-testi.png" alt="">
-                                                <h4>Aryan</h4>
-                                                <span>Chennai</span>
+                                                <img src="assets/img/testis/bhawna.jpg" alt="">
+                                                <h4>Bhawna B</h4>
+                                                <!-- <span>Chennai</span> -->
                                             </div>
                                             <div class="text-testi">
                                                 <img src="assets/img/quotes.png" alt="">
-                                                <p>Au Revoir offers the luxury of Ayurveda treatment in a scenic locale. The dedicated team and the amazing facilities make it a great wellness retreat.</p>
+                                                <h3>A Taste of Ayurveda/Kerala</h3>
+                                                <p>Au Revoir, “Goodbye Until We Meet again!” What a lovely name, I thought before I stepped into this magical place.
+                                                The location is breathtaking with the mountains in the background and the scenic view of the backwaters stretching the entire road to its entrance.
+                                                This is my second visit in less than two months. Au Revoir is all praise for its hospitality, Ayurvedic treatments and exquisite cuisine.
+                                                </p>
                                             </div>
                                         </div>
                                 </div>
                                 <div class="testi-item">
                                         <div class="testi-box d-flex text-center align-items-center">
                                             <div class="img-testi">
-                                                <img src="assets/img/male-testi.png" alt="">
-                                                <h4>Sathiyan</h4>
-                                                <span>Kochi</span>
+                                                <img src="assets/img/testis/shaji-kumar.jpg" alt="">
+                                                <h4>Shaji Kumar</h4>
+                                                <!-- <span>Kochi</span> -->
                                             </div>
                                             <div class="text-testi">
                                                 <img src="assets/img/quotes.png" alt="">
-                                                <p>I chose Au Revoir as it provides authentic treatment and one can also relax in the retreat/spa. The stay was memorable as our needs were addressed.</p>
+                                                <h3>Gods own place</h3>
+                                                <p>Gods own resort...tucked away 6kms away from malampuzha dam near palakkad , this resort is a perfect gem...the road is less travelled hence full of gravel and mud...but once u get inside the gate , the world changes...wow...just wow. We were a family of around 23 people and we thoroughly enjoyed the ambience and the stay at Au revoir.</p>
                                             </div>
                                         </div>
                                 </div>
                                 <div class="testi-item">
                                         <div class="testi-box d-flex text-center align-items-center">
                                             <div class="img-testi">
-                                                <img src="assets/img/female-testi.png" alt="">
-                                                <h4>Christina</h4>
-                                                <span>Germany</span>
+                                                <img src="assets/img/testis/niyas.jpg" alt="">
+                                                <h4>Niyas M</h4>
+                                                <!-- <span>Germany</span> -->
                                             </div>
                                             <div class="text-testi">
                                                 <img src="assets/img/quotes.png" alt="">
-                                                <p>Au Revoir is a perfect place for healing and rejuvenation with its best packages and top-notch amenities.One truly wishes to come back for more.</p>
+                                                <h3>Ayurvedic Treatment</h3>
+                                                <p>Very good service and woderfull ambience, we got varieties of vegetable soups, ayurvedic food at ayuveda treatment ayurvedic doctor and team very experienced and dedicated, we got delicious and so yummy food in normal restaurant. Rooms are spacious and can enjoy scenic beauty. They maintain good customer relationship also......... 🙏🙏🙏</p>
                                             </div>
                                         </div>
                                 </div>
