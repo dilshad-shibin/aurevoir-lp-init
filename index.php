@@ -401,6 +401,22 @@ $medium = $_GET['utm_medium'];
                   <div class="row">
                       <div class="col-12">
                           <div class="testi-slider owl-carousel">
+                              
+                            <div class="testi-item">
+                                    <div class="testi-box d-flex text-center align-items-center">
+                                        <div class="img-testi">
+                                            <img src="assets/img/testis/arushi.jpg" alt="">
+                                            <h4>Arushi</h4>
+                                            <!-- <span>Thrissur</span> -->
+                                        </div>
+                                        <div class="text-testi">
+                                            <img src="assets/img/quotes.png" alt="">
+                                            <h3>Lovely Experience!</h3>
+                                            <p class="addReadMore showlesscontent">I came to this beautiful resort to spend time with my mother and also spend time with nature. The resort definitely exceeded expectations with such lovely and hospitable staff members, beautiful scenery, and amazing treatments. I felt completely relaxed and rejuvenated after my Ayurvedic health treatments. I also had an amazing time in the swimming pool which has a scenic view overlooking the mountains of Kerala. Overall, I had an incredible experience here and look forward to coming back as soon as possible. Highly recommend.</p>
+                                        </div>
+                                    </div>
+                               </div>
+
                               <div class="testi-item">
                                   <div class="testi-box d-flex text-center align-items-center">
                                       <div class="img-testi">
@@ -411,29 +427,22 @@ $medium = $_GET['utm_medium'];
                                       <div class="text-testi">
                                           <img src="assets/img/quotes.png" alt="">
                                           <h3>The perfect cocktail of Magic!</h3>
-                                          <p>Saddly my holiday has come to an end, but I really want to say a few words about the magic experience I lived in this place and have come from Italy for an official visit.
+                                          <p class="addReadMore showlesscontent">
+                                          Saddly my holiday has come to an end, but I really want to say a few words about the magic experience I lived in this place and have come from Italy for an official visit.
                                           Au Revoir is a new wellness resort located on the Malambuzha Dam resorvoir with a breath-taking sightseeing of nature and water.
-                                          The area is safe and quiet, surrounded by the nature but at a short distance from the city, just about 20 min drive. 
+                                          The area is safe and quiet, surrounded by the nature but at a short distance from the city, just about 20 min drive.
+                                          I had a marvelous and huge delux room with a private balcony. I found the room to be very clean, comfortable and I was very surprised to find so many accessories available to the client for its stay. As an example, they provide the hair comb, toothbrush, hair drier, blade and shaving gel and more; so if you forgot anything, don't worry, they will assist with any small needs.
+                                          There is another very important thing to say their dedication to the customer goes beyond what a 5 star hotel can give in many parts of Italy. I felt very highly looked after, and I could see that they have the same approach with every customer.
+                                          Shyni, who is the administration manager of this place,  would kindly take care of my meals and made sure I had the best experience of what real local food is! A true delight!
+                                          Least but not last, don't miss their special massage therapy! I treated myself with a 2 hour therapy, made of a body restoring massage and a full body coconut scrub. This is a must-try and it's called Abhyangam and Kerakarshanam.
+                                          2 hours of pure wellness for the body and soul. I wish they'd be closer to my country!
+                                          I highly recommend Au Revoir because of its honesty, kindness, human touch, cleanliness, fair prices, amazing view, quietness, it has it all! Many thanks to the proprietor who made this wonderful naturally blended Magic called Au Revoir!
+                                          Special thanks to Shyni and entire team of the Aurevoir for making my stay memorable!!
                                           </p>
                                       </div>
                                   </div>
                               </div>
-                              <div class="testi-item">
-                                    <div class="testi-box d-flex text-center align-items-center">
-                                        <div class="img-testi">
-                                            <img src="assets/img/testis/arushi.jpg" alt="">
-                                            <h4>Arushi</h4>
-                                            <!-- <span>Thrissur</span> -->
-                                        </div>
-                                        <div class="text-testi">
-                                            <img src="assets/img/quotes.png" alt="">
-                                            <h3>Lovely Experience!</h3>
-                                            <p>I came to this beautiful resort to spend time with my mother and also spend time with nature. The resort definitely exceeded expectations with such lovely and hospitable staff members, beautiful scenery, and amazing treatments. I felt completely relaxed and rejuvenated after my Ayurvedic health treatments.
-                                            I also had an amazing time in the swimming pool which has a scenic view overlooking the mountains of Kerala.
-                                            </p>
-                                        </div>
-                                    </div>
-                               </div>
+                              
                                <div class="testi-item">
                                         <div class="testi-box d-flex text-center align-items-center">
                                             <div class="img-testi">
@@ -444,9 +453,15 @@ $medium = $_GET['utm_medium'];
                                             <div class="text-testi">
                                                 <img src="assets/img/quotes.png" alt="">
                                                 <h3>A Taste of Ayurveda/Kerala</h3>
-                                                <p>Au Revoir, “Goodbye Until We Meet again!” What a lovely name, I thought before I stepped into this magical place.
+                                                <p class="addReadMore showlesscontent">Au Revoir, “Goodbye Until We Meet again!” What a lovely name, I thought before I stepped into this magical place.
                                                 The location is breathtaking with the mountains in the background and the scenic view of the backwaters stretching the entire road to its entrance.
                                                 This is my second visit in less than two months. Au Revoir is all praise for its hospitality, Ayurvedic treatments and exquisite cuisine.
+                                                I took a ten-day rejuvenation treatment here and left refreshed and happy.
+                                                The Ayurvedic center run by Dr. Chitra with her team of therapists and staff is amazing!!!
+                                                Thanks to all these lovely people, Malathi, Sheeja, Amal, Shyju and Pradeep (the Ayurvedic chef) whose passion to create such a wonderful menu makes this resort very special.
+                                                Not to forget Mr. Khalid who is the M.D. and the visionary of this place. I was really humbled to meet him and learn about his great vision. His desire to offer people the experience of Ayurveda, amidst this pristine beauty is soulful.
+                                                This is a place not only for Ayurvedic treatments but also to create beautiful memories.
+                                                A bientot, j’espere!!! (Hope to see you soon!!!)
                                                 </p>
                                             </div>
                                         </div>
@@ -461,7 +476,10 @@ $medium = $_GET['utm_medium'];
                                             <div class="text-testi">
                                                 <img src="assets/img/quotes.png" alt="">
                                                 <h3>Gods own place</h3>
-                                                <p>Gods own resort...tucked away 6kms away from malampuzha dam near palakkad , this resort is a perfect gem...the road is less travelled hence full of gravel and mud...but once u get inside the gate , the world changes...wow...just wow. We were a family of around 23 people and we thoroughly enjoyed the ambience and the stay at Au revoir.</p>
+                                                <p class="addReadMore showlesscontent">Gods own resort...tucked away 6kms away from malampuzha dam near palakkad , this resort is a perfect gem...the road is less travelled hence full of gravel and mud...but once u get inside the gate , the world chnges...wow...just wow. We were a family of around 23 people and we thoroughly enjoyed the ambience and the stay at Au revoir.. 
+                                                After reaching malampuzha garden u have to drive towards the ropeway and just before that there is a small road going left..which brings us to the resort. The drive is also wonderful as we driveby the backwaters and nature is at its best there. 
+                                                They have an infinity pool...so be prepared to bring in some nylon clothes to dive in...huge expanse of a resort. Nice spacious rooms , with a huge washroom and a good balcony. Dinner was arranged for us in the hall , lip smacking non veg food. The bfast had a good spread too. There are cycles also available which can be used for a quick round around...though they also employ battery driven carts for seniors and required required guests. Overall a wonderful experience.
+                                                </p>
                                             </div>
                                         </div>
                                 </div>
@@ -475,7 +493,7 @@ $medium = $_GET['utm_medium'];
                                             <div class="text-testi">
                                                 <img src="assets/img/quotes.png" alt="">
                                                 <h3>Ayurvedic Treatment</h3>
-                                                <p>Very good service and woderfull ambience, we got varieties of vegetable soups, ayurvedic food at ayuveda treatment ayurvedic doctor and team very experienced and dedicated, we got delicious and so yummy food in normal restaurant. Rooms are spacious and can enjoy scenic beauty. They maintain good customer relationship also......... 🙏🙏🙏</p>
+                                                <p class="addReadMore showlesscontent">Very good service and woderfull ambience, we got varieties of vegetable soups, ayurvedic food at ayuvedha treatment ayurvedic Doctor and team very Expirienced and dedicated ,we got delicious and so yummy food in normal restaurant. rooms are spacious and can enjoy scenic beuty.they Maintain good customer relashionahip also......... 🙏🙏🙏</p>
                                             </div>
                                         </div>
                                 </div>
@@ -733,6 +751,41 @@ $medium = $_GET['utm_medium'];
                 $("#exampleModal0").modal('show');
             }, 7000);
         });
+    </script>
+    <script>
+       function AddReadMore() {
+                //This limit you can set after how much characters you want to show Read More.
+                var carLmt = 280;
+                // Text to show when text is collapsed
+                var readMoreTxt = " ... Read More";
+                // Text to show when text is expanded
+                var readLessTxt = " Read Less";
+
+
+                //Traverse all selectors with this class and manupulate HTML part to show Read More
+                $(".addReadMore").each(function() {
+                    if ($(this).find(".firstSec").length)
+                        return;
+
+                    var allstr = $(this).text();
+                    if (allstr.length > carLmt) {
+                        var firstSet = allstr.substring(0, carLmt);
+                        var secdHalf = allstr.substring(carLmt, allstr.length);
+                        var strtoadd = firstSet + "<span class='SecSec'>" + secdHalf + "</span><span class='readMore'  title='Click to Show More'>" + readMoreTxt + "</span><span class='readLess' title='Click to Show Less'>" + readLessTxt + "</span>";
+                        $(this).html(strtoadd);
+                    }
+
+                });
+                //Read More and Read Less Click Event binding
+                $(document).on("click", ".readMore,.readLess", function() {
+                    $(this).closest(".addReadMore").toggleClass("showlesscontent showmorecontent");
+                });
+            }
+            $(function() {
+                //Calling function after Page Load
+                AddReadMore();
+        });
+
     </script>
 
 </body>
