@@ -313,7 +313,7 @@ $medium = $_GET['utm_medium'];
                     <div class="col-lg-4 col-md-6">
                         <div class="pg-box">
                             <img src="assets/img/package/ayurveda-package-1.jpg" alt="">
-                            <h2>Soukyayush <br> 
+                            <h2>Soukhyayush <br> 
                                 (Healing Process)</h2>
                             <p>The pandemic of this century has been touching a major number of human beings on this planet. As Post Pandemic damage to the body is highly increased in recent days, Ayurveda offers the best way of treatment for Post Pandemic symptoms, as it owns natural remedies for swift healing on interior parts of the body. Treatment principles for the Post-covid symptoms encompass a good set of concepts that focus on bodily humor, digestive fire, bodily constitution, and site of disease which aids to reinforce the impaired circulation of body fluids, metabolism, and nutrition. A "Goodbye" package for these symptoms - Soukhyayush  - contains different types of purificatory treatments and external treatments like Abhyangam, Dhanyamla Dhara, Urovasti, Rooksh pinda swedam, etc. Embrace our customized Ayurveda package, for experiencing the potential of this traditional method of treatment.</p>
                         </div>
