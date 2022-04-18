@@ -604,6 +604,7 @@
     }
     #letter5 input[type="submit"]{
         font-size: 14px;
+        letter-spacing: 0;
     }
     .about-head .about-btn a{
         padding: 18px 20px;
@@ -618,10 +619,10 @@
         /* top: 35%; */
     }
     .video-block{
-        margin-bottom: 40px;
+        margin-bottom: 0px;
     }
     .client-videos{
-        padding-bottom: 10px;
+        padding-bottom: 65px;
     }
     .client-head h2 {
         font-size: 26px;

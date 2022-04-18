@@ -96,6 +96,31 @@
         }
     });
 
+    // :: 12.0 Video SLIDER ACTIVE CODE
+    $('.video-testi.owl-carousel').owlCarousel({
+        loop: true,
+        margin: 30,
+        nav: false,
+        dots: true,
+        smartSpeed: 2000,
+        autoplay: true,
+        autoplayTimeout: 4000,
+        responsive: {
+            0: {
+                items: 1
+            },
+            576: {
+                items: 1
+            },
+            768: {
+                items: 2
+            },
+            992: {
+                items: 2
+            }
+        }
+    });
+
     /* Amenities slider */
     $('.amenities-slider.owl-carousel').owlCarousel({
         loop: true,
