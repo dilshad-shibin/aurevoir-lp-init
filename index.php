@@ -137,8 +137,7 @@ $medium = $_GET['utm_medium'];
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-12">
-                        <div class="video-testi owl-carousel">
+                    <div class="col-lg-6">
                             <div class="item">
                                 <div class="video-block text-center">
                                     <div class="img">
@@ -152,7 +151,10 @@ $medium = $_GET['utm_medium'];
                                     </div>
                                 </div>
                             </div><!-- item close -->
-                            <div class="item">
+                    </div>
+                    <div class="col-lg-6">
+                        
+                        <div class="item">
                                 <div class="video-block text-center">
                                     <div class="img">
                                         <div class="img-hover"></div>
@@ -165,33 +167,6 @@ $medium = $_GET['utm_medium'];
                                     </div>
                                 </div>
                             </div><!-- item close -->
-                            <div class="item">
-                                <div class="video-block text-center">
-                                    <div class="img">
-                                        <div class="img-hover"></div>
-                                        <img src="assets/img/bg/seib.jpg" alt="" class="testii-img"> 
-                                        <a href="assets/videos/seib-mostert.mp4" data-fancybox class="center-btn"><img src="assets/img/play-btn.png" alt=""></a>
-                                    </div>
-                                    <div class="details">
-                                        <h3>Mr.Seib Mostert</h3>
-                                        <p>France</p>
-                                    </div>
-                                </div>
-                            </div><!-- item close -->
-                            <div class="item">
-                                <div class="video-block text-center">
-                                    <div class="img">
-                                        <div class="img-hover"></div>
-                                        <img src="assets/img/bg/sreekrishna.jpg" alt="" class="testii-img"> 
-                                        <a href="assets/videos/sreekrihna-kumar.mp4" data-fancybox class="center-btn"><img src="assets/img/play-btn.png" alt=""></a>
-                                    </div>
-                                    <div class="details">
-                                        <h3>Bregadier H S Sreekrishna Kumar & Ratna Madhuri</h3>
-                                        <p>Hyderabad</p>
-                                    </div>
-                                </div>
-                            </div><!-- item close -->
-                        </div>
                     </div>
                 </div>
             </div>
@@ -215,7 +190,7 @@ $medium = $_GET['utm_medium'];
                             </div>
                             <div class="text">
                                 <h3>Detox & Boost Immunity</h3>
-                                <p>In order to preserve optimum health, efforts must be made to improve the natural mechanism of protection of the body, called immunity.</p>
+                                <p>To preserve optimum health, efforts must be made to improve the natural mechanism of protection of the body, called immunity.</p>
                             </div>
                         </div>
                     </div>
@@ -237,7 +212,7 @@ $medium = $_GET['utm_medium'];
                             </div>
                             <div class="text">
                                 <h3>Body Purification & Detox</h3>
-                                <p>Cleansing of the body and mind by means of different Ayurvedic purification therapies helps the body to undergo rejuvenation naturally.</p>
+                                <p>Cleansing of the body and mind using different Ayurvedic purification therapies helps the body to undergo rejuvenation naturally.</p>
                             </div>
                         </div>
                     </div>
@@ -270,7 +245,7 @@ $medium = $_GET['utm_medium'];
                             </div>
                             <div class="text">
                                 <h3>Remove Stress & Strain</h3>
-                                <p>Different types of therapies are available for stress reduction and anxiety management, that relax the whole body and help you feel good.</p>
+                                <p>Different types of therapies are available for stress reduction and anxiety management, that relaxes the whole body and help you feel good.</p>
                             </div>
                         </div>
                     </div>
@@ -315,7 +290,7 @@ $medium = $_GET['utm_medium'];
                             <img src="assets/img/package/ayurveda-package-1.jpg" alt="">
                             <h2>Soukhyayush <br> 
                                 (Healing Process)</h2>
-                            <p>The pandemic of this century has been touching a major number of human beings on this planet. As Post Pandemic damage to the body is highly increased in recent days, Ayurveda offers the best way of treatment for Post Pandemic symptoms, as it owns natural remedies for swift healing on interior parts of the body. Treatment principles for the Post-covid symptoms encompass a good set of concepts that focus on bodily humor, digestive fire, bodily constitution, and site of disease which aids to reinforce the impaired circulation of body fluids, metabolism, and nutrition. A "Goodbye" package for these symptoms - Soukhyayush  - contains different types of purificatory treatments and external treatments like Abhyangam, Dhanyamla Dhara, Urovasti, Rooksh pinda swedam, etc. Embrace our customized Ayurveda package, for experiencing the potential of this traditional method of treatment.</p>
+                            <p>The pandemic of this century has been touching a major number of human beings on this planet. Post-pandemic damages to the body are highly increased in recent days. Ayurveda offers the best way of treatment for post-pandemic symptoms, as it owns natural remedies for swift healing on interior parts of the body. Embrace our customized Ayurveda package – Soukhyayush, for experiencing the potential of this traditional method of treatment.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -323,7 +298,7 @@ $medium = $_GET['utm_medium'];
                             <img src="assets/img/package/ayurveda-package-2.jpg" alt="">
                             <h2>Prajnamrutham <br>
                                 (Mind Rejuvenation)</h2>
-                            <p>Ensuring to keep a balance of mind and body is necessary for healthy well-being.  People are facing various types of stress and work-related tensions in their daily life. Sometimes it turns out to be difficult to manage by them. We are introducing a new customized package – Prajnamrutham, for ensuring your mental health and rejuvenation. Prajnamrutham is specifically designed for treating the Stress-Strain mind, which can bring people to a level of mind management. Both meditational and medicational therapies like Sirodhara, Takradhara, Sirovasti, Thalapothichil, Nasyam, Thalam, etc are included in Prajnamrutham. Our package combined with meditational practices and Ayurvedic therapies helps you to experience a symbiotic relationship between mental, bodily, and spiritual well-being.</p>
+                            <p>Ensuring to keep a balance of mind and body is necessary for healthy well-being.  People face various types of stress and work-related tensions in their daily lives. We are introducing a new customized package – Prajnamrutham, to ensure your mental health and rejuvenation. Prajnamrutham is specifically designed for treating the Stress-Strain mind, which can bring people to a level of mind management.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -331,7 +306,7 @@ $medium = $_GET['utm_medium'];
                             <img src="assets/img/package/ayurveda-package-3.jpg" alt="">
                             <h2>Swasthya <br>
                             Chikitsa</h2>
-                            <p>Living an Ayurveda lifestyle by following a daily routine - Dinacharya is a simple solution to any health-related problems and is vital to promoting a harmonious balance between mind, body, and soul.  Swasthya Chikitsa is a preventive healthcare package with an outlook of enabling the prevention of disease and the promotion of health through diet and lifestyle management. Ayurveda provides a singular set of guidelines in Dinacharya, to assist us to achieve optimum health. Today’s fast lifestyle leads us to the negligence of healthy habits and gives chances to many lifestyle-related diseases. The principles of Dinacharya are most relevant at this point. External Oleation/Abhyangam is the most vital daily routine in Ayurveda. It is an Ayurvedic ritual massage therapy to warm up muscles, loosen trapped endogenous toxins, and improve circulation. We, through this customized package, ensure you complete preventive health care.</p>
+                            <p>Negligence of healthy habits gives chances to many lifestyle-related diseases. Living an Ayurveda lifestyle by following a daily routine - Dinacharya is a simple solution to any health-related problems. Swasthya Chikitsa is a preventive healthcare package with an outlook of enabling disease prevention and health promotion through diet and lifestyle management. We, through this customized package, ensure you complete preventive health care.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -339,7 +314,7 @@ $medium = $_GET['utm_medium'];
                             <img src="assets/img/package/detox.jpg" alt="">
                             <h2>Detox &  <br>
                             Boost Immunity</h2>
-                            <p>All human beings have a basic immune system. Efforts to improve the natural mechanism of immunity of the body play a key role in preserving optimum health. A natural way of prevention to fight off diseases and strengthen our immune system is needed in this world. A healthy lifestyle following proper health guidelines will help you to get a good immune system naturally. It is very important to detoxify oneself and remove body toxins to get rid of the diseases and make one’s immunity strong and sturdy. We seek to understand the root causes of the problem, helping you to get relieved through our detox treatment. We focus to enhance your immunity with this effective package that includes ayurvedic medications, medicated water, external treatments along with lifestyle and dietary modifications. With our Detox & Body Immunity package, we will help you to acquire a healthy life.</p>
+                            <p>Efforts to improve the natural mechanism of immunity of the body play a key role in preserving optimum health. A healthy lifestyle following proper health guidelines will help you to get a good immune system naturally. We seek to understand the root causes of the problem, helping you to get relieved through our detox treatment. Focusing on enhancing your immunity with this effective package, we help you to acquire a healthy life.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -347,7 +322,7 @@ $medium = $_GET['utm_medium'];
                             <img src="assets/img/package/ayurveda-body-purification.jpg" alt="">
                             <h2>Panchakarma  <br>
                             Therapy</h2>
-                            <p>Panchakarma is a unique five-fold line of treatment in Ayurveda that helps you to cleanse and get rid of the accumulated toxins or unwanted materials from the body. The five treatments included in Panchakarma are Vamana, Virechana, Nasya, Vasthi and Raktamokshana. With its oleation and fomentation treatments incorporated with other therapies and ayurvedic medicines, Panchakarma purifies and rejuvenates your body. It can often be used for both preventive and curative purposes. With this package, we ensure to keep your mind, body, and spirit in harmony with the universe to procure good health. The feeling of rejuvenation with the support of our experts will help you to get rid of all your ailments and relax your body and mind, in a great natural ambiance of our resort.</p>
+                            <p>Panchakarma is a unique five-fold line of treatment in Ayurveda that helps you to cleanse and get rid of the accumulated toxins or unwanted materials from the body. With this package, we ensure to keep your mind, body, and spirit in harmony with the universe, to procure good health. The feeling of rejuvenation with the support of our experts will help you to get rid of all your ailments and relax your body and mind, in a great natural ambiance of our resort.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -355,7 +330,7 @@ $medium = $_GET['utm_medium'];
                             <img src="assets/img/package/obesity-management.jpg" alt="">
                             <h2>Obesity   <br>
                             Management</h2>
-                            <p>Overweight and Obesity are terms that refer to bodyweight that is higher than what is healthy. Being overweight is a result of extra body fat, muscle, bone, or water. Ayurveda deals with Obesity management in different ways, including specific Ayurveda treatments that include different types of powder massages, herbal baths, steams, etc. The line of treatment can contain fasting, oral use of digestives to augment the fat metabolism, dry medicated powder massage, heavy and non-nourishing diet, advised physical and mental relaxation exercises, etc. Besides, Ayurveda treatments and internal medications, specific individual diet and lifestyle modification, Yoga, Surya-namaskaram, meditation, etc. are often helpful in maximizing the effect of this healthy Ayurvedic weight loss. Experience the support from experts in obesity management/weight reduction with our special package and live your life to the fullest!</p>
+                            <p>Obesity refers to a bodyweight that is higher than what is healthy. Ayurveda deals with Obesity management in different ways. Our Ayurvedic treatments comprise internal medications, specific individual diet, lifestyle modification, Yoga, Surya-namaskaram, meditation, etc. Experience the support from experts in obesity management/weight reduction with our special package and live your life to the fullest!</p>
                         </div>
                     </div>
                 </div>

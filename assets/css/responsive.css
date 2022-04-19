@@ -619,7 +619,7 @@
         /* top: 35%; */
     }
     .video-block{
-        margin-bottom: 0px;
+        margin-bottom: 22px;
     }
     .client-videos{
         padding-bottom: 65px;
@@ -638,6 +638,9 @@
     }
     .testi-slider .owl-dots{
         top: 25px;
+    }
+    .treat-head h2{
+        font-size: 34px;
     }
 }
 
