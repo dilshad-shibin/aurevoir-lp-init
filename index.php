@@ -143,7 +143,7 @@ $medium = $_GET['utm_medium'];
                                     <div class="img">
                                         <div class="img-hover"></div>
                                         <img src="assets/img/bg/kadhal-sandya.jpg" alt="" class="testii-img">
-                                        <a href="assets/videos/kadhal.mp4" data-fancybox class="center-btn"><img src="assets/img/play-btn.png" alt=""></a>
+                                        <a href="https://youtu.be/DjFWDfNL_xs" data-fancybox class="center-btn"><img src="assets/img/play-btn.png" alt=""></a>
                                     </div>
                                     <div class="details">
                                         <h3>Kaadhal Sandhya</h3>
@@ -159,7 +159,7 @@ $medium = $_GET['utm_medium'];
                                     <div class="img">
                                         <div class="img-hover"></div>
                                         <img src="assets/img/bg/arushi.jpg" alt="" class="testii-img"> 
-                                        <a href="assets/videos/arushi.mp4" data-fancybox class="center-btn"><img src="assets/img/play-btn.png" alt=""></a>
+                                        <a href="https://youtu.be/8FszEH7pR6U" data-fancybox class="center-btn"><img src="assets/img/play-btn.png" alt=""></a>
                                     </div>
                                     <div class="details">
                                         <h3>Arushi Baradwaj</h3>
@@ -298,7 +298,7 @@ $medium = $_GET['utm_medium'];
                             <img src="assets/img/package/ayurveda-package-2.jpg" alt="">
                             <h2>Prajnamrutham <br>
                                 (Mind Rejuvenation)</h2>
-                            <p>Ensuring to keep a balance of mind and body is necessary for healthy well-being.  People face various types of stress and work-related tensions in their daily lives. We are introducing a new customized package – Prajnamrutham, to ensure your mental health and rejuvenation. Prajnamrutham is specifically designed for treating the Stress-Strain mind, which can bring people to a level of mind management.</p>
+                            <p>Ensuring to keep a balance of mind and body is necessary for healthy well-being.  People face various types of stress and work-related tensions in their daily lives. We are introducing a new customized package – Prajnamrutham, to ensure your mental health and rejuvenation. Prajnamrutham is specifically designed for treating the stress-strain mind, which can bring people to a level of mind management.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -394,7 +394,7 @@ $medium = $_GET['utm_medium'];
                              <div class="amn-item">
                                 <img src="assets/img/amenities/aurevoir-honeymoon-poolvilla.jpg" alt="Aurevoir restaurant Poolvilla">
                                 <div class="text-amn">
-                                    <h2>Honeymoon Pool View</h2>
+                                    <h2>Honeymoon Pool Villa</h2>
                                 </div>
                             </div>
                             <div class="amn-item">
@@ -409,12 +409,12 @@ $medium = $_GET['utm_medium'];
                                     <h2>Deluxe Room</h2>
                                 </div>
                             </div>
-                            <div class="amn-item">
+                            <!-- <div class="amn-item">
                                 <img src="assets/img/amenities/row-house.jpg" alt="Aurevoir row house">
                                 <div class="text-amn">
                                     <h2>Row House</h2>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="amn-item">
                                 <img src="assets/img/amenities/banquet-hall.jpg" alt="Aurevoir Banquet Hall">
                                 <div class="text-amn">
@@ -603,22 +603,23 @@ $medium = $_GET['utm_medium'];
                       <div class="col-12 text-center">
                           <div class="footer-logo">
                               <img src="assets/img/logo/aurevoir-logo.png" alt="">
-                              <ul class="social-btns">
+                              <!-- <ul class="social-btns">
                                   <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                   <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                   <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                              </ul>
+                              </ul> -->
                           </div>
                       </div>
                   </div>
                   <div class="row">
                       <div class="col-12">
-                          <div class="copyright-area">
-                              <p>Copyright @ 2022 AuRevoir Resort, Palakkad. All Rights Reserved. Designed by 
+                          <div class="copyright-area d-flex justify-content-between">
+                                <p>Copyright @ 2022 AuRevoir Resort, Palakkad. All Rights Reserved. Designed by 
                                   <a href="#http://www.theviralmafia.com/?utm_source=aurevoir" target="_blank">
                                       <img src="assets/img/logo/viralmafia.png" alt="">
-                                  </a>
+                                  </a>. 
                                 </p>
+                                <p><a href="#" data-toggle="modal" data-target="#myModal3">Privacy Policy.</a></p>
                           </div>
                       </div>
                   </div>
